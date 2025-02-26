@@ -52,7 +52,7 @@ body {
 
 
 #about {
-  background: url('../gif/fondo.gif');
+  background: url('../gif/fondo.gif') no-repeat center center/cover;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   position: relative;
   background-position: center 40%;
